@@ -1,12 +1,12 @@
 {
-    "version": "0.2.14",
+    "version": "0.2.17",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/gexclaude/aaregurucli/releases/download/v0.2.14/aareguru_0.2.14_windows_386.zip",
+            "url": "https://github.com/gexclaude/aaregurucli/releases/download/v0.2.17/aareguru_0.2.17_windows_386.zip",
             "bin": "aareguru.exe"
         },
         "64bit": {
-            "url": "https://github.com/gexclaude/aaregurucli/releases/download/v0.2.14/aareguru_0.2.14_windows_amd64.zip",
+            "url": "https://github.com/gexclaude/aaregurucli/releases/download/v0.2.17/aareguru_0.2.17_windows_amd64.zip",
             "bin": "aareguru.exe"
         }
     },
