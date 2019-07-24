@@ -1,19 +1,19 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/gexclaude/aaregurucli/releases/download/v0.4.1/aareguru_0.4.1_windows_386.zip",
+            "url": "https://github.com/gexclaude/aaregurucli/releases/download/0.4.3/aareguru_0.4.3_windows_386.zip",
             "bin": [
                 "aareguru.exe"
             ],
-            "hash": "6b3d63096ba77a4aecadfe83f5c00cf7e39a06b62d392ac28baed76c6c2b40bb"
+            "hash": "9ca18ed58c6d003677f803642580a431b4d9008934a371065d4c19d348a304bb"
         },
         "64bit": {
-            "url": "https://github.com/gexclaude/aaregurucli/releases/download/v0.4.1/aareguru_0.4.1_windows_amd64.zip",
+            "url": "https://github.com/gexclaude/aaregurucli/releases/download/0.4.3/aareguru_0.4.3_windows_amd64.zip",
             "bin": [
                 "aareguru.exe"
             ],
-            "hash": "11984cd92894ddc92f989d3c59fe1c7da0537c78aee6786a121b7c7cbc208009"
+            "hash": "793e8d307c41e3bd812d9632f1233866f71faf1c126991543dac0a1419da5c9a"
         }
     },
     "homepage": "https://aare.guru/",
